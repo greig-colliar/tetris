@@ -1,2 +1,2 @@
-# tetris
-web browser version of Tetris
+# Tetris
+Web browser version of Tetris
